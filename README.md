@@ -12,7 +12,7 @@ brew install marathon-swift
 ```swift
 marathon run https://github.com/oshtman/video_uploader.git
 ```
-  or by installing it as a binary and run through the terminal
+* or install it as a binary and run through the terminal
 ```swift
 marathon install https://github.com/oshtman/video_uploader.git
 ```
